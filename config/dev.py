@@ -1,0 +1,8 @@
+import os
+
+APP_NAME = "MXCwebsite"
+SECRET_KEY = "key"
+ENVIRONMENT = "dev"
+DISPLAY_DEBUG_INFO = False
+TEMPLATES_AUTO_RELOAD = True
+CHECK_IMAGES = False
